@@ -1,0 +1,7 @@
+{
+    "name": "itech/parcial-inscripciones",
+    "description": "Parcial Práctico I - Sistema de inscripciones iTECH",
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.8"
+    }
+}
